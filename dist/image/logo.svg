@@ -1,0 +1,30 @@
+<svg id="logo.svg" xmlns="http://www.w3.org/2000/svg" width="221" height="57" viewBox="0 0 221 57">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #185a9d;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #31be91;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 14.97px;
+      }
+
+      .cls-4 {
+        font-family: Montserrat;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-1" d="M1625.89,669.477l-4.13,21.1h-5.64v0h-0.8l1.2-6.234a70.566,70.566,0,0,1-3.6,6.234h-7.18q1.35-1.745,2.64-3.711l-0.03-.058a48.684,48.684,0,0,0,3.63-6.31v-0.061l0.02,0.053c6.29-12.8,5.88-23.616-.55-24.264-4.73-.478-10.05,4.568-15.5,11.944h-1.67c6.75-9.6,15.19-16.466,21.51-16.167,6.15,0.292,8.35,7.448,6.23,17.48h3.87Zm-35.61,13.441-1.5,7.655h-7.07l1.53-7.745L1578,669.477h7.1l2.84,7.293,5.85-7.293h7.09Z" transform="translate(-1578 -652)"/>
+  <path id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" class="cls-2" d="M1598.32,690.573h-0.73l4.19-21.1h5.75l4,9.827c-1.37,2.608-3.12,5.44-3.68,6.323l-1.93-4.547-1.89,9.491h-5.71v0Zm-13.5,1.414c-0.26,3.647.41,6.608,2.23,8.243,3.72,3.337,10.98-.374,17.55-8.243h7.39c-9.25,13.624-21.07,20.7-26.48,15.069-2.81-2.935-3.26-8.523-1.93-15.069h1.24Z" transform="translate(-1578 -652)"/>
+  <text id="YORQINMEDICAL" class="cls-3" transform="translate(60.324 36.299) scale(1.196 1.202)"><tspan class="cls-4">YORQIN</tspan><tspan class="cls-5">MEDICAL</tspan></text>
+</svg>
